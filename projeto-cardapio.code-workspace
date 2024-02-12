@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "projeto-cardapio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
